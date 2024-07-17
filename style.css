@@ -1,0 +1,44 @@
+.div1{
+    background-color: rgb(207, 144, 60);
+    width: 33%;
+    height: 180px;
+    border-radius: 5px;
+    margin: 2px;
+  
+
+}
+#sbox1{
+    background-color: antiquewhite;
+border-radius: 5px;
+width: 33%;
+height: 30px;
+margin: 2px;
+}
+#main1{
+    display: flex;
+    flex-direction: row;
+   }
+   .fline{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-top: 20px;
+   }
+   .sline{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    
+   }
+   
+   .main2{
+    display: flex;
+   }
+   #sbox2{
+    background-color: rgb(220, 149, 56);
+border-radius: 5px;
+width: 33%;
+height: 30px;
+margin: 2px;
+}
+   
